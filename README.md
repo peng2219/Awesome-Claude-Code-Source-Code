@@ -14,4 +14,5 @@ A curated list of awesome Claude Code source code investigation，research and  
 
 ### Research
 
-[claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive) - A systematic study based on the source code recovery of cli.js.map from the claude-code npm package by @tvytlx.
+[claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive) - A systematic study based on the source code recovery of cli.js.map from the claude-code npm package by @tvytlx.  
+[Claude Code Unpacked](https://ccunpacked.dev/) - The agent loop, 50+ tools, multi-agent orchestration, and unreleased features, mapped straight from the source.
