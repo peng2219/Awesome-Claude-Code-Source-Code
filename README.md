@@ -15,4 +15,5 @@ A curated list of awesome Claude Code source code investigation，research and  
 ### Research
 
 [claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive) - A systematic study based on the source code recovery of cli.js.map from the claude-code npm package by @tvytlx.  
-[Claude Code Unpacked](https://ccunpacked.dev/) - The agent loop, 50+ tools, multi-agent orchestration, and unreleased features, mapped straight from the source.
+[Claude Code Unpacked](https://ccunpacked.dev/) - The agent loop, 50+ tools, multi-agent orchestration, and unreleased features, mapped straight from the source.  
+[Harness Books](https://github.com/wquguru/harness-books) - Two books about Harness Engineering: Harness Engineering: Claude Code Design Guide (Harness Engineering：Claude Code 设计指南) and Harness Design Philosophy for Claude Code and Codex (Claude Code 和 Codex 的 Harness 设计哲学).
